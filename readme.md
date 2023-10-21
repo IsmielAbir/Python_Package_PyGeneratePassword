@@ -29,4 +29,17 @@ print("Custom Password:", custom_password)
 ## Output
 
 Generated Password: W!lA0$qVnS7C
+
 Custom Password: ZS4jB9$+xQvH6D!2
+
+
+## Options
+The PasswordGenerate class supports the following options:
+
+length (default is 12): Specify the length of the generated password.
+
+use_digits (default is True): Include digits (0-9) in the password.
+
+use_special_chars (default is True): Include special characters in the password.
+
+You can customize these options to create passwords that meet your specific requirements.
